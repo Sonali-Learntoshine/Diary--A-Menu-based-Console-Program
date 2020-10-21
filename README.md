@@ -1,6 +1,7 @@
 # Diary--A-Menu-based-Console-Program
 
-### This is a menu based console based program in C++ which will ask for the details of others like Name of the person, contact and email-id and store in the database.
+### This is a simple menu and console based program in C++ which will ask for the details of others like Name of the person, contact and email-id and store in the database.
+### One can view the stored details and also delete the desired data.
 #### It have the following initial structure:
 
 #### --------------------------------------------------------------------------------------
